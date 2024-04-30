@@ -16,6 +16,8 @@
 
 <img width="523" alt="1714459231059" src="https://github.com/b43646/MLInAction/assets/4653664/bf2bf277-82f6-434d-939e-24d467656650">
 
+### Hardware Cost
 
+<img width="523" alt="1714460176674" src="https://github.com/b43646/MLInAction/assets/4653664/3ee408a7-eaaa-402e-94f8-b98115b46d16">
 
 
