@@ -1,9 +1,9 @@
 # MLInAction
 
-## [大语言模型](https://github.com/b43646/MLInAction/tree/main/LLM)
-- 大模型加载与使用
-- 大模型微调、评价、保存以及推理
-- 基于Langchain的RAG(Retrieval-Augmented Generation,检索增强生成)
+## [大模型](https://github.com/b43646/MLInAction/tree/main/LLM)
+- [大模型加载与使用](https://github.com/b43646/MLInAction/blob/main/LLM/2_pipeline.ipynb)
+- [大模型微调、评价、保存以及推理](https://github.com/b43646/MLInAction/blob/main/LLM/5_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%83.ipynb)
+- [基于Langchain的RAG(Retrieval-Augmented Generation,检索增强生成)](https://github.com/b43646/MLInAction/blob/main/LLM/6_Langchain_RAG.ipynb)
 
 ## [基于Pytorch的机器学习实践](https://github.com/b43646/MLInAction/tree/main/ML)
 - [Pytorch入门与应用](https://github.com/b43646/MLInAction/blob/main/ML/10_01_pytorch.ipynb)
