@@ -11,4 +11,4 @@
 - [网络模型搭建](https://github.com/b43646/MLInAction/blob/main/ML/10-3.ipynb)
 - [Pytorch模型训练与可视化](https://github.com/b43646/MLInAction/blob/main/ML/11-1.ipynb)
 - [基于自有数据集构建模型训练](https://github.com/b43646/MLInAction/blob/main/ML/11_2.ipynb)
-- 模型与提升
+- 模型性能优化
