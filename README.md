@@ -13,7 +13,8 @@
 - [基于自有数据集构建模型训练](https://github.com/b43646/MLInAction/blob/main/ML/11_2.ipynb)
 - 模型性能优化
 
-## 应用
-- [英语口语嘴替](https://github.com/b43646/MLInAction/blob/main/CN-Speaker-EN_Proxy.py)
-- 适用于中英文会议/客服场景下，打破语言障碍，顺畅沟通
-- 进展：中->英文单向流程跑通，会议软件录制已验证可行，待完善
+## 模型微调实践
+- [身份指令微调](https://github.com/b43646/MLInAction/blob/main/SFT/01_qwen_lora_loren_identity.md)
+- [NL2SQL指令微调](https://github.com/b43646/MLInAction/blob/main/SFT/02_qwen_nl2sql_sft.md)
+- [RLHF_DPO强化学习微调](https://github.com/b43646/MLInAction/blob/main/SFT/qwen_dpo.md)
+
