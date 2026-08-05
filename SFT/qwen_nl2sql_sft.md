@@ -2,6 +2,10 @@
 准备数据
 
 ```
+dev.json： https://bird-bench.github.io/
+cosql_train.json：https://www.modelscope.cn/datasets/yuchen/CoSQL/files
+
+
 原始数据集文件： cosql_train.json \ dev.json
 转换脚本： convert_cosql_to_sharegpt.py \ convert_spider_to_alpaca.py
 转后后的数据集： cosql_train_sharegpt.json \ dev_alpaca.json
