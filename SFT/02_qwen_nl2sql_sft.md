@@ -41,6 +41,11 @@ python convert_spider_to_alpaca.py
 **3. 微调**
 
 ```
+# 下载模型
+
+modelscope download --model  Qwen/Qwen2.5-7B-Instruct --local-dir ./qwen25_7b_instruct/
+
+
 ## 执行微调
 
 llamafactory-cli train \
