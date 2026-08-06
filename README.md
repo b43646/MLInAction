@@ -13,7 +13,7 @@
 - [基于自有数据集构建模型训练](https://github.com/b43646/MLInAction/blob/main/ML/11_2.ipynb)
 - 模型性能优化
 
-## 模型微调实践
+## [模型微调实践](https://github.com/b43646/MLInAction/tree/main/SFT)
 - [身份指令微调](https://github.com/b43646/MLInAction/blob/main/SFT/01_qwen_lora_loren_identity.md)
 - [NL2SQL指令微调](https://github.com/b43646/MLInAction/blob/main/SFT/02_qwen_nl2sql_sft.md)
 - [RLHF_DPO强化学习微调](https://github.com/b43646/MLInAction/blob/main/SFT/qwen_dpo.md)
